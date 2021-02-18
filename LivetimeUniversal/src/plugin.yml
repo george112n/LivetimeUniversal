@@ -1,0 +1,9 @@
+name: LivetimeUniversal
+version: 2.0.0
+main: LivetimeUniversal.Main
+description: Allows player to experience live time, seasonal or linear for a universal location (Trafalgar Sqaure)
+
+commands:
+    livetime:
+        usage: /<command> [seasonal]
+        description: Toggles live time on and off
